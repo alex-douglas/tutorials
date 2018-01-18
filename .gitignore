@@ -1,0 +1,3 @@
+*.DS_Store
+*.ipynb_checkpoints
+/reg_stata_python/_ignore_working_notebook.ipynb
