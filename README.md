@@ -1,6 +1,6 @@
 # Tutorials
 
-This repo contains the reference files for any tutorials I’ve written about on my blog, [alexrdouglas.com](http://alexrdouglas.com)
+This repo contains the reference files for any tutorials I’ve written about on my blog, [alexrdouglas.com](http://www.alexrdouglas.com)
 
 ## Table of Contents
 
